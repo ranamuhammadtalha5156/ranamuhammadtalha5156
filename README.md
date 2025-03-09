@@ -9,11 +9,11 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Studying at Bahria Uneversity Karachi 🤖
-🔭 I’m currently working on AI and web...
-🌱 I’m currently learning GenAI and Chatbot development..
-👯 I’m looking to collaborate on project's..
-🤔 I’m looking for help with developers...	
+🤵 Studying at Bahria Uneversity Karachi 🤖 <br>
+🔭 I’m currently working on AI and web...<br>
+🌱 I’m currently learning GenAI and Chatbot development..<br>
+👯 I’m looking to collaborate on project's..<br>
+🤔 I’m looking for help with developers...<br>	
 
 <h2>Tech Stack</h2>
 
