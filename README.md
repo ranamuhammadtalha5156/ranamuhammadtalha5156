@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Hammad Sheikh👋<a href="https://hammad-air.github.io/hammad/"></h1>
+    <h1> Hi there, I'm Rana Muhammad Talha Umer👋<a href="https://ranamuhammadtalha5156.github.io/talha/"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
@@ -9,20 +9,18 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
-	
-👨‍💻 AI Engineer CargoAI
-	
-💸 Help 80+ Clients via Generative AI & Automation
+🤵 Studying at Bahria Uneversity Karachi 🤖
+🔭 I’m currently working on AI and web...
+🌱 I’m currently learning GenAI and Chatbot development..
+👯 I’m looking to collaborate on project's..
+🤔 I’m looking for help with developers...	
 
-📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
- 
 <h2>Tech Stack</h2>
 
 <table width="100">
 <tr>
     <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fopenai-chatgpt-logo-icon-free-png.webp?alt=media&token=7f1e7f67-d80a-4e04-9d39-c37007c3f547" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" >
     </td>
 
   <td align='center' width="200">
