@@ -29,13 +29,7 @@
  
 
     
-</table>
-</p>
-<p align="center">
-<a href="(https://www.linkedin.com/in/rana-muhammad-talha-umer-15ba1b305/)"></a>
-<a href="mailto:ranamuhammadtalhaumer@gmail.com"><img src="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"/></a>
-<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
- </p>
+
  
 <br>
 
