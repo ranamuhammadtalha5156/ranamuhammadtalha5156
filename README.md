@@ -9,7 +9,7 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Studying at Bahria Uneversity Karachi 🤖 <br>
+🤵 Studying at Bahria University Karachi 🤖 <br>
 🔭 I’m currently working on AI and web...<br>
 🌱 I’m currently learning GenAI and Chatbot development..<br>
 👯 I’m looking to collaborate on project's..<br>
